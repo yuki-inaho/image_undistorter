@@ -1,0 +1,6 @@
+opencv-python==4.2.0.34
+click==7.1.2
+numpy==1.16.6
+toml==0.10.1
+pathlib==1.0.1
+tqdm==4.48.2
